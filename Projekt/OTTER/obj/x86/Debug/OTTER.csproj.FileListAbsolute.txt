@@ -1,0 +1,81 @@
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\bin\Debug\backgrounds\kitchen.png
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\cheese.png
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\gonzales.png
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\gonzalescheese.png
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\gonzaleswait.png
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\fridge.jpg
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\fridgeOpen.jpg
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\gonzaleslijevo.png
+C:\Users\Home\Desktop\OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\knife.jpg
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\bin\Debug\backgrounds\kitchen.png
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\bin\Debug\sprites\cheese.png
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\bin\Debug\sprites\fridge.jpg
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\bin\Debug\sprites\fridgeOpen.jpg
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\bin\Debug\sprites\gonzales.png
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\bin\Debug\sprites\gonzalescheese.png
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\bin\Debug\sprites\gonzaleslijevo.png
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\bin\Debug\sprites\gonzaleswait.png
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\bin\Debug\sprites\knife.jpg
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Korisnik\Desktop\v9 antonela\New folder (2)\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\backgrounds\kitchen.png
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\cheese.png
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\fridge.jpg
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\fridgeOpen.jpg
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\gonzales.png
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\gonzalescheese.png
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\gonzaleslijevo.png
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\gonzaleswait.png
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\knife.jpg
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\microvawe.png
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\gonzalescheeselijevo.png
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\fridgeOpen1.png
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\fridgeOpen2.png
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\fridgeOpen3.png
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\fridgeOpen4.png
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\sprites\fridgeOpen5.png
+C:\Users\Home\Desktop\projekt2\Projekt\OTTER\bin\Debug\backgrounds\gameover.png
